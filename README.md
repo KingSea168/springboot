@@ -1,2 +1,2 @@
 # springboot
-some useful springboot demo
+spring boot demo
